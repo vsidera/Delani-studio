@@ -41,6 +41,10 @@
   height: 300px;
 }
 
+h2{
+  text-align: center;
+}
+
 .whatwedo h2{
   padding-top: 30px;
 }
