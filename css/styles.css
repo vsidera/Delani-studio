@@ -3,7 +3,24 @@
   height: 400px;
 }
 
+.aboutus{
+  text-align: center;
+}
+
 .services{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
   height: 300px;
+  color: white;
+  text-align: center;
 }
+
+/* .whatwedo{
+  text-align: center;
+  height: 600px;
+
+} */
+
+/* #design{
+  background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/services_icons/design_icon.png");
+  heigh
+} */
