@@ -1,5 +1,5 @@
-# Akan-name Generator
-#### The application allows the user to input their Date,Month and year of Birth and then displays their Akan name, 18/07/2020
+# Delani-Studio
+#### The application features a fictional studio and gives information about the services offered and projects done by the studio.It also takes feedback from the user and alerts the user on receipt of feedback, 25/07/2020
 #### By **siderra,moringa school**
 ## Description
 Akan names are derived from Ghanian culture.
