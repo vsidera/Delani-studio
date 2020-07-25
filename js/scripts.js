@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    //what we do section toggle
+    // toggle
     $('#design').click(function() {
         $(this).hide();
         $('.design').show();
@@ -26,7 +26,7 @@ $(document).ready(function() {
         $('#product').toggle();
     });
 
-    //portfolio overlays
+    // overlays
     $(".one").mouseover(function() {
         $("#one").show();
     });
