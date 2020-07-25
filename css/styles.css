@@ -3,11 +3,25 @@
   height: 600px;
   text-align: center;
   color: white;
+  width: 100%;
+  padding-top: 12%;
+}
+
+.welcome h3 {
+    padding-top: 15px;
+}
+
+.welcome h4{
+  padding-top: 15px;
 }
 
 .aboutus{
   text-align: center;
   height: 350px;
+}
+
+.aboutus{
+  padding-top: 40px;
 }
 
 .services{
@@ -37,6 +51,22 @@
 
 }
 
+#submit {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#mouse {
+    padding-top: 20px;
+    margin-top: 8%;
+    padding-bottom: 20px;
+}
 /* #design{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/services_icons/design_icon.png");
   heigh
