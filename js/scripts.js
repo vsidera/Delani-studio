@@ -13,9 +13,9 @@ $(document).ready(function() {
         $(this).hide();
         $('.dev').toggle();
     });
-    $('.dvpt').click(function() {
+    $('.dev').click(function() {
         $(this).hide();
-        $('#dvpt').toggle();
+        $('#dev').toggle();
     });
     $('#product').click(function() {
         $(this).hide();
