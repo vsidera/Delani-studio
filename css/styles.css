@@ -98,7 +98,7 @@ body{
 
 .contactus{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
-  height: 400px;
+  height: 420px;
   text-align: center;
   color: white;
   padding-top: 20px;
@@ -119,10 +119,11 @@ input[type="submit"],
 
 
 #submit {
-  background-color: transparent; /* Green */
+  background-color: transparent;
   border: 1px white;
   color: white;
-  padding-top: 10px;
+  /* padding-top: px; */
+  padding-bottom: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
